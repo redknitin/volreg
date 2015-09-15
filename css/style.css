@@ -1,0 +1,20 @@
+ul.position-listing {
+	padding-left: 0;
+	list-style: none;
+}
+
+ul.position-listing > li {
+	margin-bottom: 15px;
+}
+
+span.position-title {
+	font-weight: bold;
+}
+
+span.position-meta {
+	font-size: smaller;	
+}
+
+form#profile-form {
+	width: 500px;
+}
