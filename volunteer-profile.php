@@ -5,9 +5,9 @@
 	<input type="text" name="skills" class="form-control" placeholder="Skills"/>
 	<select name="commitment" class="form-control">
 		<option value="">Select your availability</option>
-		<option value="">Full-time</option>
-		<option value="">Part-time</option>
-		<option value="">Weekends</option>
+		<option value="fulltime">Full-time</option>
+		<option value="parttime">Part-time</option>
+		<option value="weekends">Weekends</option>
 	</select>
 	<input type="text" name="location" class="form-control" placeholder="Location"/>
 	<input type="submit" value="Save" class="btn btn-primary"/>

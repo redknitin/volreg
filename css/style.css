@@ -18,3 +18,7 @@ span.position-meta {
 form#profile-form {
 	width: 500px;
 }
+
+form#search-form {
+	width: 500px;
+}
